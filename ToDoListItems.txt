@@ -1,0 +1,11 @@
+Mail birthday card	Buy a 30th birthday card for John	25-04-2016
+Finish design proposal for client	I promised Mike I'd email website mockups by Friday 22nd April	22-04-2016
+Pickup Doug at the train station	Doug's arriving on March 23 on the 5:00 train	23-03-2016
+Pickup dry cleaning	The clothes should be ready by Wednesday	20-04-2016
+Karina new Item	new Karina input	15-07-2020
+Stasik new Item	add another item	22-07-2020
+Mama Item	short test	14-07-2020
+this item is due tomorrow	appointment	17-07-2020
+Early Task	check	01-02-2016
+Vasylyna birthday	let's celabrate	01-05-2016
+Today todo	today	16-07-2020
